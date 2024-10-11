@@ -12,6 +12,7 @@
 # along with this program. If not, see <http://www.gnu.org/licenses/>.
 bl_info = {
     "name": "Weave Mapper",
+    "author": "Tim Thorne",
     "blender": (4, 0, 0),
     "category": "Object",
 }
